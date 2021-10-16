@@ -1,0 +1,19 @@
+.hero {
+    height: 100vh;
+}
+
+body.b-about {
+    background-image: url('1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+main .content {
+    height: 80vh;
+}
+
